@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-08-05">
+    <creator>NetworkX 3.0</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Existencia (1)" label="Existencia (1)" />
+      <node id="No Existencia (0)" label="No Existencia (0)" />
+      <node id="Tiempo" label="Tiempo" />
+      <node id="Qubit" label="Qubit" />
+      <node id="Línea" label="Línea" />
+      <node id="Suma" label="Suma" />
+      <node id="Resta" label="Resta" />
+      <node id="Evolución" label="Evolución" />
+      <node id="Otro Punto" label="Otro Punto" />
+      <node id="Estabilidad" label="Estabilidad" />
+      <node id="Movimiento" label="Movimiento" />
+      <node id="Choques" label="Choques" />
+      <node id="Dirección" label="Dirección" />
+      <node id="Distancia" label="Distancia" />
+      <node id="Velocidad" label="Velocidad" />
+      <node id="División" label="División" />
+      <node id="Multiplicación" label="Multiplicación" />
+      <node id="Reposo" label="Reposo" />
+      <node id="Separación" label="Separación" />
+      <node id="Indirección" label="Indirección" />
+      <node id="Cercanía" label="Cercanía" />
+      <node id="Lentitud" label="Lentitud" />
+      <node id="Triángulo" label="Triángulo" />
+      <node id="Superficie" label="Superficie" />
+      <node id="Relaciones Angulares" label="Relaciones Angulares" />
+      <node id="Línea 1" label="Línea 1" />
+      <node id="Línea 2" label="Línea 2" />
+      <node id="Línea 3" label="Línea 3" />
+      <node id="Vacío Bidimensional" label="Vacío Bidimensional" />
+      <node id="No Angularidad" label="No Angularidad" />
+      <node id="Tetraedro" label="Tetraedro" />
+      <node id="Espacio Tridimensional" label="Espacio Tridimensional" />
+      <node id="Relaciones Espaciales" label="Relaciones Espaciales" />
+      <node id="Triángulo 1" label="Triángulo 1" />
+      <node id="Triángulo 2" label="Triángulo 2" />
+      <node id="Triángulo 3" label="Triángulo 3" />
+      <node id="Triángulo 4" label="Triángulo 4" />
+      <node id="Línea 4" label="Línea 4" />
+      <node id="Línea 5" label="Línea 5" />
+      <node id="Línea 6" label="Línea 6" />
+      <node id="Vacío Tridimensional" label="Vacío Tridimensional" />
+      <node id="No Espacialidad" label="No Espacialidad" />
+      <node id="Dinámica" label="Dinámica" />
+      <node id="Interacción" label="Interacción" />
+      <node id="Energía" label="Energía" />
+      <node id="Tetraedro 1" label="Tetraedro 1" />
+      <node id="Tetraedro 2" label="Tetraedro 2" />
+      <node id="Estática" label="Estática" />
+      <node id="Aislamiento" label="Aislamiento" />
+      <node id="Inercia" label="Inercia" />
+      <node id="Información" label="Información" />
+      <node id="Entropía" label="Entropía" />
+      <node id="Transmisión de Información" label="Transmisión de Información" />
+      <node id="Ignorancia" label="Ignorancia" />
+      <node id="Orden" label="Orden" />
+      <node id="Bloqueo de Información" label="Bloqueo de Información" />
+      <node id="Información Cuántica" label="Información Cuántica" />
+      <node id="Evolución Holográfica" label="Evolución Holográfica" />
+      <node id="Flecha del Tiempo" label="Flecha del Tiempo" />
+      <node id="Emergencia Espacio-Temporal" label="Emergencia Espacio-Temporal" />
+      <node id="Unificación Escalas" label="Unificación Escalas" />
+      <node id="Cosmología Cuántica" label="Cosmología Cuántica" />
+      <node id="Reflexión Meta" label="Reflexión Meta" />
+      <node id="Ciclo de Retroalimentación" label="Ciclo de Retroalimentación" />
+      <node id="Auto-Referencia" label="Auto-Referencia" />
+      <node id="Conciencia Emergente" label="Conciencia Emergente" />
+      <node id="Recursividad Universal" label="Recursividad Universal" />
+    </nodes>
+    <edges>
+      <edge source="Existencia (1)" target="Qubit" id="0" label="Estado |1&gt;" weight="1" />
+      <edge source="Existencia (1)" target="No Existencia (0)" id="1" label="dualidad" weight="1" />
+      <edge source="Existencia (1)" target="Tiempo" id="2" label="medición de cambio" weight="1" />
+      <edge source="Existencia (1)" target="Otro Punto" id="3" label="forma Línea" weight="1" />
+      <edge source="Existencia (1)" target="Línea" id="4" weight="1" />
+      <edge source="Existencia (1)" target="Información" id="5" weight="1" />
+      <edge source="Existencia (1)" target="Reflexión Meta" id="6" label="Colapso y multiplicación del punto" weight="1" />
+      <edge source="No Existencia (0)" target="Qubit" id="7" label="Estado |0&gt;" weight="1" />
+      <edge source="No Existencia (0)" target="Tiempo" id="8" label="medición de ausencia" weight="1" />
+      <edge source="No Existencia (0)" target="Información" id="9" label="dualidad base" weight="1" />
+      <edge source="Tiempo" target="Qubit" id="10" label="Evolución temporal cuántica" weight="1" />
+      <edge source="Tiempo" target="Velocidad" id="11" label="relación temporal" weight="1" />
+      <edge source="Tiempo" target="Energía" id="12" weight="1" />
+      <edge source="Tiempo" target="Información" id="13" weight="1" />
+      <edge source="Tiempo" target="Entropía" id="14" weight="1" />
+      <edge source="Tiempo" target="Flecha del Tiempo" id="15" label="Impulso entrópico" weight="1" />
+      <edge source="Tiempo" target="Auto-Referencia" id="16" label="Feedback temporal" weight="1" />
+      <edge source="Qubit" target="Información Cuántica" id="17" label="Unidad fundamental" weight="1" />
+      <edge source="Qubit" target="Cosmología Cuántica" id="18" label="Base para evolución universal" weight="1" />
+      <edge source="Qubit" target="Ciclo de Retroalimentación" id="19" label="Reinicio recursivo" weight="1" />
+      <edge source="Línea" target="Suma" id="20" label="extensión positiva" weight="1" />
+      <edge source="Línea" target="Resta" id="21" label="extensión negativa" weight="1" />
+      <edge source="Línea" target="Evolución" id="22" label="proceso de cambio" weight="1" />
+      <edge source="Línea" target="Otro Punto" id="23" weight="1" />
+      <edge source="Línea" target="Movimiento" id="24" label="desplazamiento" weight="1" />
+      <edge source="Línea" target="Choques" id="25" label="interacciones" weight="1" />
+      <edge source="Línea" target="Dirección" id="26" label="orientación" weight="1" />
+      <edge source="Línea" target="Distancia" id="27" label="medida" weight="1" />
+      <edge source="Línea" target="División" id="28" label="distribución" weight="1" />
+      <edge source="Línea" target="Multiplicación" id="29" label="amplificación" weight="1" />
+      <edge source="Suma" target="Resta" id="30" label="dualidad" weight="1" />
+      <edge source="Evolución" target="Estabilidad" id="31" label="dualidad" weight="1" />
+      <edge source="Evolución" target="Evolución Holográfica" id="32" label="Expansión conceptual" weight="1" />
+      <edge source="Evolución" target="Recursividad Universal" id="33" label="Expansión cíclica" weight="1" />
+      <edge source="Movimiento" target="Velocidad" id="34" label="rapidez" weight="1" />
+      <edge source="Movimiento" target="Reposo" id="35" label="dualidad" weight="1" />
+      <edge source="Movimiento" target="Dinámica" id="36" label="extensión 3D" weight="1" />
+      <edge source="Choques" target="Separación" id="37" label="dualidad" weight="1" />
+      <edge source="Choques" target="Interacción" id="38" weight="1" />
+      <edge source="Dirección" target="Indirección" id="39" label="dualidad" weight="1" />
+      <edge source="Dirección" target="Línea 1" id="40" label="heredado" weight="1" />
+      <edge source="Dirección" target="Línea 2" id="41" label="heredado" weight="1" />
+      <edge source="Dirección" target="Línea 3" id="42" label="heredado" weight="1" />
+      <edge source="Dirección" target="Línea 4" id="43" label="heredado" weight="1" />
+      <edge source="Dirección" target="Línea 5" id="44" label="heredado" weight="1" />
+      <edge source="Dirección" target="Línea 6" id="45" label="heredado" weight="1" />
+      <edge source="Dirección" target="Relaciones Espaciales" id="46" weight="1" />
+      <edge source="Distancia" target="Cercanía" id="47" label="dualidad" weight="1" />
+      <edge source="Velocidad" target="Lentitud" id="48" label="dualidad" weight="1" />
+      <edge source="Velocidad" target="Dinámica" id="49" label="extensión 3D" weight="1" />
+      <edge source="División" target="Multiplicación" id="50" label="dualidad" weight="1" />
+      <edge source="Triángulo" target="Superficie" id="51" label="medida" weight="1" />
+      <edge source="Triángulo" target="Relaciones Angulares" id="52" label="orientaciones" weight="1" />
+      <edge source="Triángulo" target="Línea 1" id="53" weight="1" />
+      <edge source="Triángulo" target="Línea 2" id="54" weight="1" />
+      <edge source="Triángulo" target="Línea 3" id="55" weight="1" />
+      <edge source="Superficie" target="Vacío Bidimensional" id="56" label="dualidad" weight="1" />
+      <edge source="Superficie" target="Espacio Tridimensional" id="57" weight="1" />
+      <edge source="Superficie" target="Emergencia Espacio-Temporal" id="58" label="Codificación holográfica" weight="1" />
+      <edge source="Relaciones Angulares" target="No Angularidad" id="59" label="dualidad" weight="1" />
+      <edge source="Línea 1" target="Línea 2" id="60" label="formación" weight="1" />
+      <edge source="Línea 1" target="Línea 3" id="61" label="formación" weight="1" />
+      <edge source="Línea 1" target="Triángulo 1" id="62" label="formación" weight="1" />
+      <edge source="Línea 1" target="Triángulo 2" id="63" label="formación" weight="1" />
+      <edge source="Línea 2" target="Línea 3" id="64" label="formación" weight="1" />
+      <edge source="Línea 2" target="Triángulo 1" id="65" label="formación" weight="1" />
+      <edge source="Línea 2" target="Triángulo 3" id="66" label="formación" weight="1" />
+      <edge source="Línea 3" target="Triángulo 1" id="67" label="formación" weight="1" />
+      <edge source="Línea 3" target="Triángulo 4" id="68" label="formación" weight="1" />
+      <edge source="Tetraedro" target="Triángulo 1" id="69" label="formación" weight="1" />
+      <edge source="Tetraedro" target="Triángulo 2" id="70" label="formación" weight="1" />
+      <edge source="Tetraedro" target="Triángulo 3" id="71" label="formación" weight="1" />
+      <edge source="Tetraedro" target="Triángulo 4" id="72" label="formación" weight="1" />
+      <edge source="Tetraedro" target="Espacio Tridimensional" id="73" label="volumen" weight="1" />
+      <edge source="Tetraedro" target="Relaciones Espaciales" id="74" label="orientación" weight="1" />
+      <edge source="Espacio Tridimensional" target="Vacío Tridimensional" id="75" label="dualidad" weight="1" />
+      <edge source="Espacio Tridimensional" target="Dinámica" id="76" weight="1" />
+      <edge source="Relaciones Espaciales" target="No Espacialidad" id="77" label="dualidad" weight="1" />
+      <edge source="Relaciones Espaciales" target="Interacción" id="78" weight="1" />
+      <edge source="Relaciones Espaciales" target="Transmisión de Información" id="79" weight="1" />
+      <edge source="Relaciones Espaciales" target="Emergencia Espacio-Temporal" id="80" weight="1" />
+      <edge source="Triángulo 2" target="Línea 4" id="81" label="formación" weight="1" />
+      <edge source="Triángulo 2" target="Línea 5" id="82" label="formación" weight="1" />
+      <edge source="Triángulo 3" target="Línea 5" id="83" label="formación" weight="1" />
+      <edge source="Triángulo 3" target="Línea 6" id="84" label="formación" weight="1" />
+      <edge source="Triángulo 4" target="Línea 4" id="85" label="formación" weight="1" />
+      <edge source="Triángulo 4" target="Línea 6" id="86" label="formación" weight="1" />
+      <edge source="Dinámica" target="Tetraedro 1" id="87" label="movimiento" weight="1" />
+      <edge source="Dinámica" target="Tetraedro 2" id="88" label="movimiento" weight="1" />
+      <edge source="Dinámica" target="Energía" id="89" label="cuantificación" weight="1" />
+      <edge source="Dinámica" target="Estática" id="90" label="dualidad" weight="1" />
+      <edge source="Dinámica" target="Información" id="91" label="codificación" weight="1" />
+      <edge source="Dinámica" target="Transmisión de Información" id="92" weight="1" />
+      <edge source="Interacción" target="Tetraedro 1" id="93" label="colisiones" weight="1" />
+      <edge source="Interacción" target="Tetraedro 2" id="94" label="colisiones" weight="1" />
+      <edge source="Interacción" target="Energía" id="95" label="cuantificación" weight="1" />
+      <edge source="Interacción" target="Aislamiento" id="96" label="dualidad" weight="1" />
+      <edge source="Energía" target="Inercia" id="97" label="dualidad" weight="1" />
+      <edge source="Energía" target="Información" id="98" label="codificación" weight="1" />
+      <edge source="Energía" target="Entropía" id="99" weight="1" />
+      <edge source="Información" target="Entropía" id="100" label="medida desorden" weight="1" />
+      <edge source="Información" target="Transmisión de Información" id="101" weight="1" />
+      <edge source="Información" target="Ignorancia" id="102" label="dualidad" weight="1" />
+      <edge source="Información" target="Información Cuántica" id="103" label="Conservación cuántica" weight="1" />
+      <edge source="Entropía" target="Orden" id="104" label="dualidad" weight="1" />
+      <edge source="Entropía" target="Información Cuántica" id="105" label="Entropía holográfica" weight="1" />
+      <edge source="Entropía" target="Flecha del Tiempo" id="106" label="Crecimiento entrópico" weight="1" />
+      <edge source="Entropía" target="Conciencia Emergente" id="107" label="Resolución de incertidumbre" weight="1" />
+      <edge source="Transmisión de Información" target="Bloqueo de Información" id="108" label="dualidad" weight="1" />
+      <edge source="Información Cuántica" target="Evolución Holográfica" id="109" label="Proyección universal" weight="1" />
+      <edge source="Evolución Holográfica" target="Unificación Escalas" id="110" label="De partículas a cosmos" weight="1" />
+      <edge source="Evolución Holográfica" target="Cosmología Cuántica" id="111" label="Teoría unificada intuitiva" weight="1" />
+      <edge source="Evolución Holográfica" target="Reflexión Meta" id="112" label="Auto-observación universal" weight="1" />
+      <edge source="Flecha del Tiempo" target="Ciclo de Retroalimentación" id="113" label="Bucles temporales" weight="1" />
+      <edge source="Emergencia Espacio-Temporal" target="Auto-Referencia" id="114" label="Reconstrucción holográfica" weight="1" />
+      <edge source="Unificación Escalas" target="Recursividad Universal" id="115" label="Iteraciones escalares" weight="1" />
+      <edge source="Cosmología Cuántica" target="Conciencia Emergente" id="116" label="Observador cuántico" weight="1" />
+    </edges>
+  </graph>
+</gexf>

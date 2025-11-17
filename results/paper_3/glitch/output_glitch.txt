@@ -1,0 +1,26 @@
+(toe) ornelord@ornelord-A520M-K-V2:~/OrnelinaToE_Tests$ python3 uhrt_simulation_fase4_glitch.py
+--- STARTING HOLOGRAPHIC RESONANCE THEORY SIMULATION (GLITCH) ---
+
+--- [PHASE 2: STRUCTURAL MAPPING (LCF + MEDC)] ---
+Base LCF graph built with 18 nodes and 18 edges.
+
+--- [PHASE 3: SUPER METRIC CALCULATION (INITIAL)] ---
+Initial Entropy (LCF): 3.7398
+Initial Super Metric UBS-UHM (MEDC+LCF): 6.2488
+
+--- [PHASE 4: STABILITY SIMULATION (MEDC in LCF)] ---
+Checking arithmetic stability of 'Stage 2 (LCF 4 / MEDC 2D)'...
+Test values (MEDC): A=3, B=4, C=5
+Result: UNSTABLE. Rule of Three did not resolve to an integer.
+ARITHMETIC GLITCH DETECTED!!!
+Triggering entropic pruning (LCF) to re-stabilize system...
+Entropy before Glitch: 3.7398
+Pruning complete. Pruning fraction: 0.4957
+Entropy after Glitch: 3.0414
+
+--- [PHASE 5: VALIDATION (FINAL STATE)] ---
+Final Entropy (LCF): 3.0414
+Final Super Metric UBS-UHM (MEDC+LCF): 5.5504
+
+3D visualization saved to 'uhrt_simulation_glitch.png'
+(toe) ornelord@ornelord-A520M-K-V2:~/OrnelinaToE_Tests$ 

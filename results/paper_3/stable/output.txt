@@ -1,0 +1,22 @@
+(toe) ornelord@ornelord-A520M-K-V2:~/OrnelinaToE_Tests$ python3 uhrt_simulation_fase4.py
+--- STARTING HOLOGRAPHIC RESONANCE THEORY SIMULATION (STABLE) ---
+
+--- [PHASE 2: STRUCTURAL MAPPING (LCF + MEDC)] ---
+Base LCF graph built with 18 nodes and 18 edges.
+
+--- [PHASE 3: SUPER METRIC CALCULATION (INITIAL)] ---
+Initial Entropy (LCF): 3.7398
+Initial Super Metric UBS-UHM (MEDC+LCF): 6.2488
+
+--- [PHASE 4: STABILITY SIMULATION (MEDC in LCF)] ---
+Checking arithmetic stability of 'Stage 2 (LCF 4 / MEDC 2D)'...
+Test values (MEDC): A=3, B=4, C=6
+Result: STABLE. Simple Rule of Three resolved (X = 8).
+System does not require entropic pruning.
+
+--- [PHASE 5: VALIDATION (FINAL STATE)] ---
+Final Entropy (LCF): 3.7398
+Final Super Metric UBS-UHM (MEDC+LCF): 6.2488
+
+3D visualization saved to 'uhrt_simulation_stable.png'
+(toe) ornelord@ornelord-A520M-K-V2:~/OrnelinaToE_Tests$
