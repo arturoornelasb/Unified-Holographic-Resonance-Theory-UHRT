@@ -1,6 +1,8 @@
 # Unified Holographic Resonance Theory (UHRT)
 
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17627182.svg)](https://doi.org/10.5281/zenodo.17627182)
+
+
 
 This repository hosts the foundational papers, simulation code, and results for the **Unified Holographic Resonance Theory (UHRT)**, a theoretical framework that fuses arithmetic proportionality with entropic dynamics to model reality as a holographic system. UHRT integrates concepts from quantum mechanics, holography, and information theory, proposing a computable model for dimensional evolution and complexity emergence.
 
@@ -166,10 +168,9 @@ You are free to share and adapt the material for non-commercial purposes, provid
 ## Citation
 If you use this work, please cite it as:
 
-```
 
-}
-```
+José Arturo Ornelas Brand. (2025). Unified-Holographic-Resonance-Theory-UHRT (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.17627182
+
 
 For individual papers, cite their respective titles and versions.
 
