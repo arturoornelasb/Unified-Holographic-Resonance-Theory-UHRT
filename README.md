@@ -2,7 +2,7 @@
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/) 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17627182.svg)](https://doi.org/10.5281/zenodo.17627182)
+
 
 
 
@@ -171,7 +171,7 @@ You are free to share and adapt the material for non-commercial purposes, provid
 If you use this work, please cite it as:
 
 
-José Arturo Ornelas Brand. (2025). Unified-Holographic-Resonance-Theory-UHRT (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.17627182
+
 
 
 For individual papers, cite their respective titles and versions.
