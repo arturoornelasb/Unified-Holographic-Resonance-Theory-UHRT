@@ -1,5 +1,15 @@
 # Unified Holographic Resonance Theory (UHRT)
 
+> [!WARNING]
+> **🚀 DEPRECATION NOTICE (Feb 2026) 🚀**
+> 
+> This repository represents an early, theoretical exploration of the framework using analogies from theoretical physics and cosmology. While historically relevant, this code and theory have been **superseded and rigorously formalized** into pure discrete mathematics ($O(1)$ Algebra) for commercial and academic applications.
+> 
+> **Please visit the active, production-ready repository:**
+> 👉 [Triadic-Neurosymbolic-Engine](https://github.com/arturoornelasb/Triadic-Neurosymbolic-Engine) 👈
+> 
+> The new engine features exact Topological Shortest-Path Auditing, interactive Streamlit dashboards, and reproducible industrial-scale benchmarks without relying on physical metaphors.
+
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/) 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17662886.svg)](https://doi.org/10.5281/zenodo.17662886)
