@@ -92,11 +92,11 @@ The repository is organized as follows:
 ├── LICENSE
 ├── papers
 │   ├── paper_1
-│   │   ├── Composite Dimensional Evolution Framework: A Foundational Theory based on Arithmetic Proportionality.pdf
-│   │   └── Composite Dimensional Evolution Framework: A Foundational Theory based on Arithmetic Proportionality.tex
+│   │   ├── composite_dimensional_evolution_framework.pdf
+│   │   └── composite_dimensional_evolution_framework.tex
 │   ├── paper_2
-│   │   ├── A Layered Conceptual Framework: From Quantum Duality to Meta-Reflection in a Holographic Universe, Unified by the Universal Binary Scale (UBS).pdf
-│   │   └── A Layered Conceptual Framework: From Quantum Duality to Meta-Reflection in a Holographic Universe, Unified by the Universal Binary Scale (UBS).tex
+│   │   ├── layered_conceptual_framework_ubs.pdf
+│   │   └── layered_conceptual_framework_ubs.tex
 │   └── paper_3
 │       ├── unified_holographic_resonance_theory.pdf
 │       └── unified_holographic_resonance_theory.tex
@@ -142,7 +142,7 @@ To compile the LaTeX papers (requires a TeX distribution like TeX Live or MiKTeX
 
 ```bash
 cd papers/paper_1
-pdflatex "Composite Dimensional Evolution Framework: A Foundational Theory based on Arithmetic Proportionality.tex"
+pdflatex "composite_dimensional_evolution_framework.tex"
 # Repeat for paper_2 and paper_3
 ```
 
