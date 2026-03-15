@@ -1,14 +1,13 @@
 # Unified Holographic Resonance Theory (UHRT)
 
 > [!WARNING]
-> **🚀 DEPRECATION NOTICE (Feb 2026) 🚀**
-> 
-> This repository represents an early, theoretical exploration of the framework using analogies from theoretical physics and cosmology. While historically relevant, this code and theory have been **superseded and rigorously formalized** into pure discrete mathematics ($O(1)$ Algebra) for commercial and academic applications.
-> 
-> **Please visit the active, production-ready repository:**
-> 👉 [Triadic-Neurosymbolic-Engine](https://github.com/arturoornelasb/Triadic-Neurosymbolic-Engine) 👈
-> 
-> The new engine features exact Topological Shortest-Path Auditing, interactive Streamlit dashboards, and reproducible industrial-scale benchmarks without relying on physical metaphors.
+> **DEPRECATION NOTICE (Mar 2026)**
+>
+> This repository contains the early theoretical exploration of the Triadic framework. While historically foundational, the theory has been **superseded, formalized, and empirically validated** by subsequent projects. A final synthesis paper (Paper 4) is in progress.
+>
+> **Active repositories:**
+> - [Triadic-Neurosymbolic-Engine](https://github.com/arturoornelasb/Triadic-Neurosymbolic-Engine) — Formalization into discrete $O(1)$ algebra, industrial benchmarks
+> - [Triadic MicroGPT](https://github.com/arturoornelasb/triadic-microgpt) — 40M-parameter GPT with triadic head, empirical validation of UHRT axioms
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/) 
 
@@ -188,8 +187,14 @@ J.ArturoOrnelasBrand. (2025). arturoornelasb/Unified-Holographic-Resonance-Theor
 For individual papers, cite their respective titles and versions.
 
 ## Related Projects
-This repository builds on and extends the author's prior work:
-- **[A Rigorous Triadic Framework for Neurosymbolic Reasoning] https://doi.org/10.5281/zenodo.17613663 (https://github.com/arturoornelasb/Triadic-Relational-Framework)**: A formal integer-based framework for symbolic logic in AI, referenced in UHRT for neurosymbolic applications.
-- **[Bipolar Universal Semantic Scale (BUSS) - V2.0] https://doi.org/10.5281/zenodo.17505880 (https://github.com/arturoornelasb/Bipolar-Universal-Semantic-Scale-BUSS-)**: Empirical validation of semantic opposition modeling, linked to UHRT's entropic dynamics and opposition vectors.
+This repository is the theoretical foundation for a growing ecosystem:
+
+### Implementations
+- **[Triadic-Neurosymbolic-Engine](https://github.com/arturoornelasb/Triadic-Neurosymbolic-Engine)**: Formalizes UHRT into discrete $O(1)$ algebra with exact Topological Shortest-Path Auditing, interactive Streamlit dashboards, and reproducible industrial-scale benchmarks.
+- **[Triadic MicroGPT](https://github.com/arturoornelasb/triadic-microgpt)**: A 40M-parameter GPT model with a triadic head that empirically validates UHRT concepts through 12 experiments.
+
+### Prior Work (Referenced in UHRT Papers)
+- **[A Rigorous Triadic Framework for Neurosymbolic Reasoning](https://github.com/arturoornelasb/Triadic-Relational-Framework)** ([DOI](https://doi.org/10.5281/zenodo.17613663)): Integer-based relational system using GCD for balancing and dual functions ($\Phi_G, \Phi_D$), referenced in UHRT for neurosymbolic applications.
+- **[Bipolar Universal Semantic Scale (BUSS) - V2.0](https://github.com/arturoornelasb/Bipolar-Universal-Semantic-Scale-BUSS-)** ([DOI](https://doi.org/10.5281/zenodo.17505880)): Empirical validation of semantic opposition modeling, linked to UHRT's entropic dynamics and opposition vectors.
 
 Contributions and issues are welcome! Open a pull request or issue for discussions.
